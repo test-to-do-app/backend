@@ -1,0 +1,6 @@
+SECRET_KEY: "your_secret_key"
+DEBUG: True
+SQLITE_DB_NAME: db.sqlite
+ADMIN_USERNAME: "admin"
+ADMIN_PASSWORD: "123"
+TASKS_ON_PAGE: 3
